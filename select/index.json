@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ライラ / shino feat.初音ミク",
+  "base_artist": "shino",
+  "createdAt": "2026-02-19T14:40:22.951215Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ライラ",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/01_ライラ_優里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ライラ",
+      "artist": "LONGMAN",
+      "has_synced": true,
+      "path": "select/02_ライラ_LONGMAN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ライラ",
+      "artist": "LONGMAN",
+      "has_synced": true,
+      "path": "select/03_ライラ_LONGMAN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "08_Ｃパート：ＶＩＰルームで２人きり（ライラ）【ラブラブセックス】",
+      "artist": "お嬢さん堂",
+      "has_synced": true,
+      "path": "select/04_08_Cパート_VIPルームで2人きり(ライラ)【ラブラブセックス】_お嬢さん堂.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "10_チルパート：初回：情事の後（ライラ・レミエル）【沈静化】",
+      "artist": "お嬢さん堂",
+      "has_synced": true,
+      "path": "select/05_10_チルパート_初回_情事の後(ライラ・レミエル)【沈静化】_お嬢さん堂.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "11_チルパート：２回目：情事の後（ライラ）【沈静化】",
+      "artist": "お嬢さん堂",
+      "has_synced": true,
+      "path": "select/06_11_チルパート_2回目_情事の後(ライラ)【沈静化】_お嬢さん堂.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "14_模造天使と堕ちた天使（案内人・ライラ・レミエル）【セックス】",
+      "artist": "お嬢さん堂",
+      "has_synced": true,
+      "path": "select/07_14_模造天使と堕ちた天使(案内人・ライラ・レミエル)【セックス】_お嬢さん堂.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "「アルフ?ライラ?ワ?ライラ」",
+      "artist": "Stack",
+      "has_synced": true,
+      "path": "select/08_「アルフ_ライラ_ワ_ライラ」_Stack.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライラ(album ver.)",
+      "artist": "Shino",
+      "has_synced": false,
+      "path": "select/pl_01_ライラ(album_ver.)_Shino.txt"
+    }
+  ]
+}
